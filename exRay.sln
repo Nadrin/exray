@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "exRay", "exRay.icproj", "{4876E541-B52C-43C0-A947-4053EE1C7EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4876E541-B52C-43C0-A947-4053EE1C7EFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4876E541-B52C-43C0-A947-4053EE1C7EFE}.Debug|Win32.Build.0 = Debug|Win32
+		{4876E541-B52C-43C0-A947-4053EE1C7EFE}.Release|Win32.ActiveCfg = Release|Win32
+		{4876E541-B52C-43C0-A947-4053EE1C7EFE}.Release|Win32.Build.0 = Release|Win32
+		{AE0C1E35-4663-4D3D-BC66-EE269D745869}.Release|Win32.Build.0 = Release|Win32
+		{AE0C1E35-4663-4D3D-BC66-EE269D745869}.Release|Win32.ActiveCfg = Release|Win32
+		{AE0C1E35-4663-4D3D-BC66-EE269D745869}.Debug|Win32.Build.0 = Debug|Win32
+		{AE0C1E35-4663-4D3D-BC66-EE269D745869}.Debug|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

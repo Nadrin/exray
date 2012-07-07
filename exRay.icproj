@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.0"
+	Name="exRay"
+	ProjectGUID="{4876E541-B52C-43C0-A947-4053EE1C7EFE}"
+	VCNestedProjectGUID="{AE0C1E35-4663-4D3D-BC66-EE269D745869}"
+	VCNestedProjectFileName="exRay.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				GlobalOptimizations="true"
+				OptimizeForWindowsApplication="true"
+				EnableEnhancedInstructionSet="1000"
+				GenerateAlternateCodePaths="4"
+				UseProcessorExtensions="5"
+				Parallelization="true"
+				ProfileGuidedOptimization="0"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
